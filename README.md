@@ -30,6 +30,3 @@ hits and produces an annotated biological report.
 ## Author
 K Vaishali
 MSc Bioinformatics
-C Projects      ✅ 5/5 complete
-Python Projects ✅ 5/5 complete
-R Projects      ⏳ 0/5 remaining
